@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/konnorpetersen/Projects/react/bookswap/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/konnorpetersen/Projects/react/bookswap/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/konnorpetersen/Projects/react/bookswap/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/konnorpetersen/Projects/react/bookswap/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
